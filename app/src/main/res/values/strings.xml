@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KickSharing</string>
+    <string name="request_title_label">Title</string>
+    <string name="request_details_label">Details</string>
+    <string name="request_solved_label">Solved</string>
+    <string name="new_request">New Request</string>
+    <string name="request_employee_text">Choose employee</string>
+    <string name="request_report_text">Send Request Report</string>
+
+    <string name="request_report">%1$s. Заявка была создана %2$s. %3$s. %4$s</string>
+    <string name="request_report_solved">Заявка закрыта</string>
+    <string name="request_report_unsolved">Заявка не закрыта</string>
+    <string name="request_report_no_employee">Исполнитель не определён.</string>
+    <string name="request_report_employee">Исполнитель %s.</string>
+    <string name="request_report_subject">Новая заявка.</string>
+    <string name="send_report">Send request report via</string>
+    <string name="request_title_hint">Введите название модуля</string>
+</resources>
